@@ -8,7 +8,14 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
+  "clinet": {
+    "id": "texto",
+    "name": "texto",
+    "familyName": "texto",
+    "username": "texto",
+    "password": "texto",
+    "credential": "texto",
+    "picture": "texto",
+    "role": "texto"
   }
 }
