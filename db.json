@@ -32,6 +32,11 @@
       "familyName": "texto",
       "username": "texto",
       "password": "texto",
+      "credential": {
+        "id": 2,
+        "username": "texto",
+        "password": "texto"
+      },
       "picture": "texto",
       "role": "texto"
     },
@@ -41,6 +46,11 @@
       "familyName": "texto",
       "username": "texto",
       "password": "texto",
+      "credential": {
+        "id": 2,
+        "username": "texto",
+        "password": "texto"
+      },
       "picture": "texto",
       "role": "texto"
     }
