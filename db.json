@@ -1,10 +1,9 @@
 {
   "required-field-indicator": [
-    {
+  {
       "id": 1,
       "title": 60
-    }
-  ],
+  },
   "entityList": [
     {
       "id": 1,
