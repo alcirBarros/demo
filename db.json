@@ -20,5 +20,15 @@
       "entity": "ATT",
       "inconsistency": 56
     }
-  ]
+  ],
+  "odata": {
+    "@odata.context": "$metadata#Buyer",
+    "@odata.metadataEtag": "W/\"9aPT2eoPAuLtBuyYqup5bhv87P/ABqiK56fnYEdZ5XU=\"",
+    "value": [
+        {
+            "ID": 1,
+            "PORCENTAGEM": 0.0031
+        }
+    ]
+  }
 }
