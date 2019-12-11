@@ -29,6 +29,16 @@
             "ID": 1,
             "ENTITY": "PONNOT",
             "INCONSISTENCY": 250
+        },
+        {
+            "ID": 2,
+            "ENTITY": "EQTI",
+            "INCONSISTENCY": 65
+        },
+        {
+            "ID": 3,
+            "ENTITY": "UJHG",
+            "INCONSISTENCY": 685
         }
     ]
   }
