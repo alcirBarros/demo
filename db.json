@@ -21,6 +21,45 @@
       "inconsistency": 56
     }
   ],
+  
+  "gridview-odata": {
+    "@odata.context": "$metadata#Books",
+    "@odata.metadataEtag": "W/\"RscUTeJqk0ALmvAfavxgTfzVpVBXJ5PImXwBnuFR59k=\"",
+    "value": [
+        {
+            "ID": 1,
+            "title": "Aprendendo a cozinhar",
+            "stock": 1,
+            "author_ID": 3
+        },
+        {
+            "ID": 2,
+            "title": "Consertando carros",
+            "stock": 2,
+            "author_ID": 2
+        },
+        {
+            "ID": 3,
+            "title": "Masterchef",
+            "stock": 3,
+            "author_ID": 3
+        },
+        {
+            "ID": 4,
+            "title": "Só docinhos",
+            "stock": 1,
+            "author_ID": 3
+        },
+        {
+            "ID": 5,
+            "title": "Comida gourmet",
+            "stock": 2,
+            "author_ID": 3
+        }
+    ]
+},
+  
+  
   "odata": {
     "@odata.context": "$metadata#Buyer",
     "@odata.metadataEtag": "W/\"9aPT2eoPAuLtBuyYqup5bhv87P/ABqiK56fnYEdZ5XU=\"",
