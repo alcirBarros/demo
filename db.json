@@ -27,7 +27,8 @@
     "value": [
         {
             "ID": 1,
-            "PORCENTAGEM": 0.0031
+            "ENTITY": "PONNOT",
+            "INCONSISTENCY": 250
         }
     ]
   }
