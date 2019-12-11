@@ -2,7 +2,7 @@
   "required-field-indicator": 
   {
       "id": 1,
-      "inconsistency": 60
+      "inconsistency": 15
   },
   "entityList": [
     {
@@ -13,6 +13,11 @@
     {
       "id": 2,
       "entity": "BAY",
+      "inconsistency": 56
+    }
+    {
+      "id": 23,
+      "entity": "ATT",
       "inconsistency": 56
     }
   ]
